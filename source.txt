@@ -1,0 +1,3 @@
+Este es un fichero
+de texto para hacer
+el ejercicio 2 de la recuperacion de PHP
